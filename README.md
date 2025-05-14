@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ymadd-shadcn-ui-mcp-server-badge.png)](https://mseep.ai/app/ymadd-shadcn-ui-mcp-server)
+
 # shadcn-ui MCP Server
 
 MCP server for shadcn/ui component references
